@@ -1,4 +1,5 @@
 # PROYECTO CONTRATOS!
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-![enter image description here](https://ibb.co/VLVBP1m)
+
+BD para contratos
+![enter image description here](https://i.ibb.co/yN0sb9S/diagrama-DB.png)
